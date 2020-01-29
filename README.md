@@ -1,3 +1,3 @@
 # faturamento
 
-Este projeto foi desenvolvido utilizando Python 3.
+Projeto em  desenvolvimento utilizando Python 3.
